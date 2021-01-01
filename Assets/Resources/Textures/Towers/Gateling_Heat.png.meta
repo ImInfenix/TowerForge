@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: 3015b5c9a7409274fba5ddde4f733bdf
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4025425962743546288
+    second: Gateling_Heat_0
+  - first:
+      213: -3527828224754787305
+    second: Gateling_Heat_1
+  - first:
+      213: 1111713466099709099
+    second: Gateling_Heat_2
+  - first:
+      213: 7150226792742886207
+    second: Gateling_Heat_3
+  - first:
+      213: -4681894007216809759
+    second: Gateling_Heat_4
+  - first:
+      213: 5502678367333413301
+    second: Gateling_Heat_5
+  - first:
+      213: 4741839297907824601
+    second: Gateling_Heat_6
+  - first:
+      213: 4339867171243046884
+    second: Gateling_Heat_7
+  - first:
+      213: 2453347662254594980
+    second: Gateling_Heat_8
+  - first:
+      213: 1079841773064648432
+    second: Gateling_Heat_9
+  - first:
+      213: 139546708620343014
+    second: Gateling_Heat_10
+  - first:
+      213: -8738945764478982387
+    second: Gateling_Heat_11
+  - first:
+      213: 7889097234141463348
+    second: Gateling_Heat_12
+  - first:
+      213: -6455430822175476545
+    second: Gateling_Heat_13
+  - first:
+      213: -1226623799720318021
+    second: Gateling_Heat_14
+  - first:
+      213: 5105359833474264496
+    second: Gateling_Heat_15
+  - first:
+      213: -1369737512390058695
+    second: Gateling_Heat_16
+  - first:
+      213: 6003084909033648718
+    second: Gateling_Heat_17
+  - first:
+      213: -7423565649804098944
+    second: Gateling_Heat_18
+  - first:
+      213: 4389997060490729708
+    second: Gateling_Heat_19
+  - first:
+      213: -1841489554401989447
+    second: Gateling_Heat_20
+  - first:
+      213: 3066432855351252102
+    second: Gateling_Heat_21
+  - first:
+      213: 6213067042305579329
+    second: Gateling_Heat_22
+  - first:
+      213: 2146573088006054702
+    second: Gateling_Heat_23
+  - first:
+      213: 653569963742932529
+    second: Gateling_Heat_24
+  - first:
+      213: 555762621260176164
+    second: Gateling_Heat_25
+  - first:
+      213: 6889375659277781501
+    second: Gateling_Heat_26
+  - first:
+      213: -404329247303016276
+    second: Gateling_Heat_27
+  - first:
+      213: 6946744778436894546
+    second: Gateling_Heat_28
+  - first:
+      213: 7622778865116382507
+    second: Gateling_Heat_29
+  - first:
+      213: -1339890483823176115
+    second: Gateling_Heat_30
+  - first:
+      213: 5370636761939602245
+    second: Gateling_Heat_31
+  - first:
+      213: 4337462428244370662
+    second: Gateling_Heat_32
+  - first:
+      213: 4201959148631862835
+    second: Gateling_Heat_33
+  - first:
+      213: 8103866878849384364
+    second: Gateling_Heat_34
+  - first:
+      213: 4407589625215190758
+    second: Gateling_Heat_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gateling_Heat_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05e390d1a60d228c0800000000000000
+      internalID: -4025425962743546288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71cd4eabbe2aa0fc0800000000000000
+      internalID: -3527828224754787305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_2
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba434eed1899d6f00800000000000000
+      internalID: 1111713466099709099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_3
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3b9bec6265ba3360800000000000000
+      internalID: 7150226792742886207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_4
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8dfc7c432960fb0800000000000000
+      internalID: -4681894007216809759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_5
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1722612d07d5c40800000000000000
+      internalID: 5502678367333413301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d798c5d7b56ec140800000000000000
+      internalID: 4741839297907824601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_7
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7325ad23e4a3c30800000000000000
+      internalID: 4339867171243046884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_8
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ab583f43ba0c0220800000000000000
+      internalID: 2453347662254594980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_9
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f675211f5e5cfe00800000000000000
+      internalID: 1079841773064648432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_10
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e6f3ecfdf4cfe100800000000000000
+      internalID: 139546708620343014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_11
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0763dcc02709b680800000000000000
+      internalID: -8738945764478982387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433c48fd224bb7d60800000000000000
+      internalID: 7889097234141463348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb47f1c9ed3b966a0800000000000000
+      internalID: -6455430822175476545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_14
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbb61a037282afee0800000000000000
+      internalID: -1226623799720318021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_15
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bde7cc18b1e9d640800000000000000
+      internalID: 5105359833474264496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_16
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d967a5df6bdfce0800000000000000
+      internalID: -1369737512390058695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_17
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4275774bed3f4350800000000000000
+      internalID: 6003084909033648718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08282ac8f523af890800000000000000
+      internalID: -7423565649804098944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce81f8b31176cec30800000000000000
+      internalID: 4389997060490729708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_20
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bce644c107b176e0800000000000000
+      internalID: -1841489554401989447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_21
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6845cce6f682e8a20800000000000000
+      internalID: 3066432855351252102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_22
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1499f468e8f393650800000000000000
+      internalID: 6213067042305579329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_23
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e23a30bb9d82acd10800000000000000
+      internalID: 2146573088006054702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13e23c45b62f11900800000000000000
+      internalID: 653569963742932529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_25
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42b17a3d82776b700800000000000000
+      internalID: 555762621260176164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_26
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df9897f19aafb9f50800000000000000
+      internalID: 6889375659277781501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_27
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0e33a11b8836af0800000000000000
+      internalID: -404329247303016276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_28
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fd700129bc76060800000000000000
+      internalID: 6946744778436894546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_29
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b250e989dfc89c960800000000000000
+      internalID: 7622778865116382507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Heat_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d461bc934b0c76de0800000000000000
+      internalID: -1339890483823176115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

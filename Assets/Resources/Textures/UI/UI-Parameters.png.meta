@@ -1,0 +1,296 @@
+fileFormatVersion: 2
+guid: 376ad64ecbed04c499282295b9eae4d0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8688068829885973139
+    second: UI-Parameters_SliderMarker
+  - first:
+      213: -4982549061879893912
+    second: UI-Parameters_Arrow-1
+  - first:
+      213: 2314932697032220003
+    second: UI-Parameters_2
+  - first:
+      213: -8809952882441783758
+    second: UI-Parameters_Arrow-2
+  - first:
+      213: 18784607192891932
+    second: UI-Parameters_4
+  - first:
+      213: 2407091064339671387
+    second: UI-Parameters_5
+  - first:
+      213: -5980784221419469887
+    second: UI-Parameters_CheckBox
+  - first:
+      213: 4122983123370717354
+    second: UI-Parameters_7
+  - first:
+      213: -6680899174380229430
+    second: UI-Parameters_8
+  - first:
+      213: -4627318798613626282
+    second: UI-Parameters_9
+  - first:
+      213: 1652649760500452424
+    second: UI-Parameters_10
+  - first:
+      213: 8319527989245929704
+    second: UI-Parameters_CheckMark
+  - first:
+      213: 5206066509578290119
+    second: UI-Parameters_12
+  - first:
+      213: -9073800738095643507
+    second: UI-Parameters_13
+  - first:
+      213: 388221781622498741
+    second: UI-Parameters_14
+  - first:
+      213: -5997806446839410762
+    second: UI-Parameters_15
+  - first:
+      213: -2444219151081161644
+    second: UI-Parameters_16
+  - first:
+      213: 211523836527412486
+    second: UI-Parameters_SliderMarker
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI-Parameters_Arrow-1
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 735
+        width: 63
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86071b2e60e6adab0800000000000000
+      internalID: -4982549061879893912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Parameters_Arrow-2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 642
+        width: 90
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 236f022d782ccb580800000000000000
+      internalID: -8809952882441783758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Parameters_CheckBox
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 457
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3080c207cfffca0800000000000000
+      internalID: -5980784221419469887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Parameters_CheckMark
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 384
+        width: 55
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e86ce1a0a6e47370800000000000000
+      internalID: 8319527989245929704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Parameters_SliderMarker
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 585
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6db08a3e67cd6780800000000000000
+      internalID: -8688068829885973139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI-Parameters_Slider
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 597
+        width: 68
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6058eb10fcb7fe200800000000000000
+      internalID: 211523836527412486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

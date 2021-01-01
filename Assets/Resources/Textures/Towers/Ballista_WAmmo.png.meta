@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 3e93f21788482ec47822e14907cad004
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6499151894521721502
+    second: Baliste_WAmmo_0
+  - first:
+      213: -4377567822999221354
+    second: Baliste_WAmmo_1
+  - first:
+      213: -6727482583379116959
+    second: Baliste_WAmmo_2
+  - first:
+      213: -3569099873030891688
+    second: Baliste_WAmmo_3
+  - first:
+      213: 5739268960882818827
+    second: Baliste_WAmmo_4
+  - first:
+      213: 2773684719806192044
+    second: Baliste_WAmmo_5
+  - first:
+      213: -542328207287199687
+    second: Baliste_WAmmo_6
+  - first:
+      213: 8511893493528361829
+    second: Baliste_WAmmo_7
+  - first:
+      213: -9082394763217903465
+    second: Baliste_WAmmo_8
+  - first:
+      213: 7194998300202724872
+    second: Baliste_WAmmo_9
+  - first:
+      213: -2039520801813047732
+    second: Baliste_WAmmo_10
+  - first:
+      213: 7127982261386970965
+    second: Baliste_WAmmo_11
+  - first:
+      213: -3155051076822869423
+    second: Baliste_WAmmo_12
+  - first:
+      213: -2029540793070032847
+    second: Baliste_WAmmo_13
+  - first:
+      213: -9036848972497555208
+    second: Baliste_WAmmo_14
+  - first:
+      213: 3282699100961761204
+    second: Baliste_WAmmo_15
+  - first:
+      213: -8881909521222224445
+    second: Baliste_WAmmo_16
+  - first:
+      213: 4730140222640065251
+    second: Baliste_WAmmo_17
+  - first:
+      213: 586794770087121869
+    second: Baliste_WAmmo_18
+  - first:
+      213: 353685405108208479
+    second: Baliste_WAmmo_19
+  - first:
+      213: -5242265365356303127
+    second: Baliste_WAmmo_20
+  - first:
+      213: 6732781830124492785
+    second: Baliste_WAmmo_21
+  - first:
+      213: 7666292091921487483
+    second: Baliste_WAmmo_22
+  - first:
+      213: -5168015136249354045
+    second: Baliste_WAmmo_23
+  - first:
+      213: -6737589226041299495
+    second: Baliste_WAmmo_24
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 500
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Baliste_WAmmo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3468
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26dc9b139cf5ec5a0800000000000000
+      internalID: -6499151894521721502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_1
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3468
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b83f12241cf33c0800000000000000
+      internalID: -4377567822999221354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_2
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3468
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16c7f01fb3e23a2a0800000000000000
+      internalID: -6727482583379116959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_3
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 3468
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8571a1c4392087ec0800000000000000
+      internalID: -3569099873030891688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_4
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 3468
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0f78d346baf5af40800000000000000
+      internalID: 5739268960882818827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2601
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca91afa9e8b1e7620800000000000000
+      internalID: 2773684719806192044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_6
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2601
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 938d8fc6e534978f0800000000000000
+      internalID: -542328207287199687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_7
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2601
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56b77bfc802502670800000000000000
+      internalID: 8511893493528361829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_8
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 2601
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790678c551ad4f180800000000000000
+      internalID: -9082394763217903465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_9
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 2601
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e6f1355d4c9d360800000000000000
+      internalID: 7194998300202724872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c46d9e7f2aa22b3e0800000000000000
+      internalID: -2039520801813047732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_11
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1734
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 557814fd91eabe260800000000000000
+      internalID: 7127982261386970965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_12
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1734
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15a52c503c10734d0800000000000000
+      internalID: -3155051076822869423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_13
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 1734
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13865e3d66f95d3e0800000000000000
+      internalID: -2029540793070032847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_14
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1734
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0fd612db9a69280800000000000000
+      internalID: -9036848972497555208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 867
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e159907d7e8d20800000000000000
+      internalID: 3282699100961761204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_16
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 867
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c5b36c495e1db480800000000000000
+      internalID: -8881909521222224445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_17
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 867
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ea8f3c9875d4a140800000000000000
+      internalID: 4730140222640065251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_18
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 867
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc399130cb6b42800800000000000000
+      internalID: 586794770087121869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_19
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 867
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5307b5800b88e400800000000000000
+      internalID: 353685405108208479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ecaa97cc6bbf37b0800000000000000
+      internalID: -5242265365356303127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_21
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 0
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f756c61765af6d50800000000000000
+      internalID: 6732781830124492785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_22
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76dd533a04246a60800000000000000
+      internalID: 7666292091921487483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_23
+      rect:
+        serializedVersion: 2
+        x: 2094
+        y: 0
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c8e30a6d958748b0800000000000000
+      internalID: -5168015136249354045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Baliste_WAmmo_24
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 0
+        width: 698
+        height: 867
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2f43db464f72a0800000000000000
+      internalID: -6737589226041299495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

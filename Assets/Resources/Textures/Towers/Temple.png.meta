@@ -1,0 +1,848 @@
+fileFormatVersion: 2
+guid: 13a9e649f0491bd44bdfa2c0337425ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3368378472934344043
+    second: Temple-Sprites-Idle-V1_0
+  - first:
+      213: -6922454871461994852
+    second: Temple-Sprites-Idle-V1_1
+  - first:
+      213: -6065491770367873600
+    second: Temple-Sprites-Idle-V1_2
+  - first:
+      213: -964056193643893686
+    second: Temple-Sprites-Idle-V1_3
+  - first:
+      213: -5743580381351806675
+    second: Temple-Sprites-Idle-V1_4
+  - first:
+      213: -7781169579203128881
+    second: Temple-Sprites-Idle-V1_5
+  - first:
+      213: -8512537725828814305
+    second: Temple-Sprites-Idle-V1_6
+  - first:
+      213: -2770521999399021800
+    second: Temple-Sprites-Idle-V1_7
+  - first:
+      213: 9169967623584474030
+    second: Temple-Sprites-Idle-V1_8
+  - first:
+      213: -7645958891176286519
+    second: Temple-Sprites-Idle-V1_9
+  - first:
+      213: -4339687553645777754
+    second: Temple-Sprites-Idle-V1_10
+  - first:
+      213: -8142348663664901542
+    second: Temple-Sprites-Idle-V1_11
+  - first:
+      213: 7171419550195051083
+    second: Temple-Sprites-Idle-V1_12
+  - first:
+      213: -2912127220660678018
+    second: Temple-Sprites-Idle-V1_13
+  - first:
+      213: -7461507676426150370
+    second: Temple-Sprites-Idle-V1_14
+  - first:
+      213: 2762295080266444269
+    second: Temple-Sprites-Idle-V1_15
+  - first:
+      213: -5162576573210254357
+    second: Temple-Sprites-Idle-V1_16
+  - first:
+      213: -6658760626047764927
+    second: Temple-Sprites-Idle-V1_17
+  - first:
+      213: 1185166430825328137
+    second: Temple-Sprites-Idle-V1_0
+  - first:
+      213: -691792707110459410
+    second: Temple-Sprites-Idle-V1_1
+  - first:
+      213: 772456111561362061
+    second: Temple-Sprites-Idle-V1_2
+  - first:
+      213: 3948614493657918594
+    second: Temple-Sprites-Idle-V1_3
+  - first:
+      213: 3978001100522416198
+    second: Temple-Sprites-Idle-V1_4
+  - first:
+      213: -4415927973691725795
+    second: Temple-Sprites-Idle-V1_5
+  - first:
+      213: 3837562355964590096
+    second: Temple-Sprites-Idle-V1_6
+  - first:
+      213: -2171631536536147114
+    second: Temple-Sprites-Idle-V1_7
+  - first:
+      213: 4589701573221493897
+    second: Temple-Sprites-Idle-V1_8
+  - first:
+      213: -3369189911195920714
+    second: Temple-Sprites-Idle-V1_9
+  - first:
+      213: -6898659415424597869
+    second: Temple-Sprites-Idle-V1_10
+  - first:
+      213: 2228100945551939895
+    second: Temple-Sprites-Idle-V1_11
+  - first:
+      213: 9154852929841141386
+    second: Temple-Sprites-Idle-V1_12
+  - first:
+      213: 3333857024744129633
+    second: Temple-Sprites-Idle-V1_13
+  - first:
+      213: -4703890583532545148
+    second: Temple-Sprites-Idle-V1_14
+  - first:
+      213: -5652908000576364832
+    second: Temple-Sprites-Idle-V1_15
+  - first:
+      213: 6640088597193568578
+    second: Temple-Sprites-Idle-V1_16
+  - first:
+      213: 7070093733397806069
+    second: Temple-Sprites-Idle-V1_17
+  - first:
+      213: -4083158455440152173
+    second: Temple-Sprites-Idle-V1_18
+  - first:
+      213: 8026928274501063446
+    second: Temple-Sprites-Idle-V1_19
+  - first:
+      213: -4632962314556814170
+    second: Temple-Sprites-Idle-V1_20
+  - first:
+      213: -6766945048299581502
+    second: Temple-Sprites-Idle-V1_21
+  - first:
+      213: 2404159099667426881
+    second: Temple-Sprites-Idle-V1_22
+  - first:
+      213: -7546325061013489329
+    second: Temple-Sprites-Idle-V1_23
+  - first:
+      213: -6224855391876137601
+    second: Temple-Sprites-Idle-V1_24
+  - first:
+      213: -2391770245203077319
+    second: Temple-Sprites-Idle-V1_25
+  - first:
+      213: -1534218321716112347
+    second: Temple-Sprites-Idle-V1_26
+  - first:
+      213: 4156325072259688104
+    second: Temple-Sprites-Idle-V1_27
+  - first:
+      213: 8401917167659323553
+    second: Temple-Sprites-Idle-V1_28
+  - first:
+      213: 2864634793664348563
+    second: Temple-Sprites-Idle-V1_29
+  - first:
+      213: 605800652324940818
+    second: Temple-Sprites-Idle-V1_30
+  - first:
+      213: -5190799915581646140
+    second: Temple-Sprites-Idle-V1_31
+  - first:
+      213: 2801770912823596456
+    second: Temple-Sprites-Idle-V1_32
+  - first:
+      213: 8129202239194578132
+    second: Temple-Sprites-Idle-V1_33
+  - first:
+      213: 8899568642687180426
+    second: Temple-Sprites-Idle-V1_34
+  - first:
+      213: -5847844177326576771
+    second: Temple-Sprites-Idle-V1_35
+  - first:
+      213: 8778475143056656162
+    second: Temple-Sprites-Idle-V1_36
+  - first:
+      213: 8733159773402342965
+    second: Temple-Sprites-Idle-V1_37
+  - first:
+      213: 1516679082112807306
+    second: Temple-Sprites-Idle-V1_38
+  - first:
+      213: -251804636306087635
+    second: Temple-Sprites-Idle-V1_39
+  - first:
+      213: 5059508216822027149
+    second: Temple-Sprites-Idle-V1_40
+  - first:
+      213: 4148391582942866508
+    second: Temple-Sprites-Idle-V1_41
+  - first:
+      213: -1927060522965755996
+    second: Temple-Sprites-Idle-V1_42
+  - first:
+      213: -2868238725198087921
+    second: Temple-Sprites-Idle-V1_43
+  - first:
+      213: -6776129482290875624
+    second: Temple-Sprites-Idle-V1_44
+  - first:
+      213: 1332472176058543274
+    second: Temple-Sprites-Idle-V1_45
+  - first:
+      213: 296725949041184523
+    second: Temple_0
+  - first:
+      213: 2168280182228614956
+    second: Temple_1
+  - first:
+      213: -525483808432437626
+    second: Temple_2
+  - first:
+      213: 7466350239981097298
+    second: Temple_3
+  - first:
+      213: 2089133130527364085
+    second: Temple_4
+  - first:
+      213: -6581234538012409654
+    second: Temple_5
+  - first:
+      213: -5365705153931320709
+    second: Temple_6
+  - first:
+      213: 1752099247650399666
+    second: Temple_7
+  - first:
+      213: -5632251498910837766
+    second: Temple_8
+  - first:
+      213: 8463142438303506609
+    second: Temple_9
+  - first:
+      213: -8082122905233283329
+    second: Temple_10
+  - first:
+      213: -2048575383587160488
+    second: Temple_11
+  - first:
+      213: 7680840415061255570
+    second: Temple_12
+  - first:
+      213: -639961465174348255
+    second: Temple_13
+  - first:
+      213: 2760662026951819153
+    second: Temple_14
+  - first:
+      213: -5558364695879762939
+    second: Temple_15
+  - first:
+      213: 4223236132131647744
+    second: Temple_16
+  - first:
+      213: -8454994305298319465
+    second: Temple_17
+  - first:
+      213: 6469020913788382523
+    second: TempleIdle_0
+  - first:
+      213: -4385590760364093466
+    second: TempleIdle_1
+  - first:
+      213: -2595900526017391533
+    second: TempleIdle_2
+  - first:
+      213: -9122351268525860525
+    second: TempleIdle_3
+  - first:
+      213: -2736523941141319292
+    second: TempleIdle_4
+  - first:
+      213: 9061470075563220172
+    second: TempleIdle_5
+  - first:
+      213: 2786921378126656574
+    second: TempleIdle_6
+  - first:
+      213: 6633251343016149214
+    second: TempleIdle_7
+  - first:
+      213: -7961985238305265419
+    second: TempleIdle_8
+  - first:
+      213: 746522090221183309
+    second: TempleIdle_9
+  - first:
+      213: 7555468360347695257
+    second: TempleIdle_10
+  - first:
+      213: 677219064301752394
+    second: TempleIdle_11
+  - first:
+      213: -1629294804568822577
+    second: TempleIdle_12
+  - first:
+      213: -2417228161645486872
+    second: TempleIdle_13
+  - first:
+      213: -5386273893877979861
+    second: TempleIdle_14
+  - first:
+      213: -620175561563738870
+    second: TempleIdle_15
+  - first:
+      213: -7226608251131827649
+    second: TempleIdle_16
+  - first:
+      213: -6388193956594754770
+    second: TempleIdle_17
+  - first:
+      213: 1137287139758441476
+    second: TempleIdle_0
+  - first:
+      213: -4183798282974235331
+    second: TempleIdle_1
+  - first:
+      213: 6659405833200553721
+    second: TempleIdle_2
+  - first:
+      213: 8027881754400169242
+    second: TempleIdle_3
+  - first:
+      213: 3461370276186848769
+    second: TempleIdle_4
+  - first:
+      213: -3941558311435606685
+    second: TempleIdle_5
+  - first:
+      213: -3462863049225958584
+    second: TempleIdle_6
+  - first:
+      213: -9132101243249982082
+    second: TempleIdle_7
+  - first:
+      213: -4663666858254180763
+    second: TempleIdle_8
+  - first:
+      213: 4077194386768322685
+    second: TempleIdle_9
+  - first:
+      213: -2955176295997335078
+    second: TempleIdle_10
+  - first:
+      213: -4605545329518738677
+    second: TempleIdle_11
+  - first:
+      213: 3743182825251703869
+    second: TempleIdle_12
+  - first:
+      213: 6055624906508058335
+    second: TempleIdle_13
+  - first:
+      213: -2806607819593511399
+    second: TempleIdle_14
+  - first:
+      213: -2809456640013577718
+    second: TempleIdle_15
+  - first:
+      213: 6049116250761627535
+    second: TempleIdle_16
+  - first:
+      213: 6038586141478100426
+    second: TempleIdle_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 1
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: TempleIdle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5160
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4040ce4c0a478cf00800000000000000
+      internalID: 1137287139758441476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_1
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 5160
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d357e6bd0a920f5c0800000000000000
+      internalID: -4183798282974235331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_2
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 5160
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fe451f7256fa6c50800000000000000
+      internalID: 6659405833200553721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_3
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 5160
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1d9cdd0ce3c86f60800000000000000
+      internalID: 8027881754400169242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_4
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 5160
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e76345de1490030800000000000000
+      internalID: 3461370276186848769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3440
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36564695995cc49c0800000000000000
+      internalID: -3941558311435606685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3440
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84b8f0d576071ffc0800000000000000
+      internalID: -3462863049225958584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_7
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3440
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e758e2f9d42444180800000000000000
+      internalID: -9132101243249982082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_8
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3440
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56e5ffa93b3574fb0800000000000000
+      internalID: -4663666858254180763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_9
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 3440
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70ea8f51ba159830800000000000000
+      internalID: 4077194386768322685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1720
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad99c64e0da1df6d0800000000000000
+      internalID: -2955176295997335078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_11
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1720
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03831d8ce0d510c0800000000000000
+      internalID: -4605545329518738677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_12
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1720
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c887482f472f330800000000000000
+      internalID: 3743182825251703869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_13
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1720
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdebb65b4c6e90450800000000000000
+      internalID: 6055624906508058335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_14
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 1720
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91e8b41ee0dec09d0800000000000000
+      internalID: -2806607819593511399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a02d020321ec209d0800000000000000
+      internalID: -2809456640013577718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8780b33e27c2f350800000000000000
+      internalID: 6049116250761627535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TempleIdle_17
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 1380
+        height: 1720
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acd16641a1e5dc350800000000000000
+      internalID: 6038586141478100426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,76 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Waypoint
+  - Ennemy
+  - Tower
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Track
+  - 
+  - BaseSize
+  - 
+  - Range
+  - 
+  - 
+  - Ennemies
+  - 
+  - 
+  - 
+  - Projectiles
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 4020407865
+    locked: 0
+  - name: Range
+    uniqueID: 4108485399
+    locked: 0
+  - name: Ennemies
+    uniqueID: 148388257
+    locked: 0
+  - name: Effects
+    uniqueID: 4101216803
+    locked: 0
+  - name: TowersBases
+    uniqueID: 1266525057
+    locked: 0
+  - name: TowersWeapons
+    uniqueID: 943344039
+    locked: 0
+  - name: Projectiles
+    uniqueID: 2949950817
+    locked: 0
+  - name: Health
+    uniqueID: 132131231
+    locked: 0
+  - name: Foreground
+    uniqueID: 2604074173
+    locked: 0
+  - name: UI
+    uniqueID: 1786412125
+    locked: 0

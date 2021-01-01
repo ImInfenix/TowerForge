@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+  <Category name="Programmation &amp; Intégration">
+    <Person name="Duncan &quot;Infenix&quot; Sourdin"/>
+  </Category>
+  <Category name="Graphisme &amp; VFX">
+    <Person name="Johan Poncet"/>
+  </Category>
+  <Category name="Game Design">
+    <Person name="Duncan Sourdin"/>
+    <Person name="Johan Poncet"/>
+  </Category>
+  <Category name="Musique">
+    <Person name="Pierre Bédue"/>
+  </Category>
+  <Category name="Effets sonores">
+    <Person name="Ludovic Lebreton"/>
+  </Category>
+  <Category name="Test">
+    <Person name="Pierre Bédue"/>
+    <Person name="Eléonore Labrande"/>
+    <Person name="Nans Laville"/>
+    <Person name="Gauthier Morel"/>
+    <Person name="Johan Poncet"/>
+    <Person name="Antoine Raulais"/>
+    <Person name="Duncan Sourdin"/>
+  </Category>
+</Content>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+  <Category name="MainButtons">
+    <Text tag="Play" text="Jouer"/>
+    <Text tag="Credits" text="Credits"/>
+    <Text tag="Leave" text="Quitter"/>
+  </Category>
+  <Category name="Title">
+    <Text tag="Dwarfs" text="Nains"/>
+    <Text tag="Aliens" text="Aliens"/>
+  </Category>
+  <Category name="Options">
+    <Text tag="Title" text="Options"/>
+    <Text tag="PlayMusic" text="Jouer la musique"/>
+    <Text tag="PlayEffects" text="Jouer les effets"/>
+    <Text tag="Return" text="Retour"/>
+  </Category>
+  <Category name="Game">
+    <Text tag="NextWave" text="Nouvelle vague"/>
+    <Category name="Tips">
+      <Text tag="ForgeTower" text="Forger une tour"/>
+      <Text tag="LaunchNextWave" text="Lancer une nouvelle vague"/>
+      <Text tag="LifeAndMoney" text="Vie &amp; argent"/>
+      <Text tag="OpenCloseFabric" text="Ouvrir / Fermer la fabrique"/>
+      <Text tag="SelectBaseAndWeaponToForge" text="Choisir une base et une arme à forger"/>
+      <Text tag="Close" text="Fermer l'aide"/>
+    </Category>
+    <Category name="PauseMenu">
+      <Text tag="Title" text="Pause"/>
+      <Text tag="Resume" text="Reprendre"/>
+      <Text tag="Retry" text="Réessayer"/>
+      <Text tag="BackToMenu" text="Retour au menu"/>
+    </Category>
+  </Category>
+</Content>

@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &802959977644385865
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 802959977644385864}
+  - component: {fileID: 802959977644385871}
+  m_Layer: 0
+  m_Name: Towers
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &802959977644385864
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 802959977644385865}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &802959977644385871
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 802959977644385865}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35c0ecc0a64168545b906a8fad016e48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  basesInfos:
+  - associatedGO: {fileID: 4083014842318498933, guid: 096317f28a62a7048a33e75039754c6a,
+      type: 3}
+    baseType: 0
+  - associatedGO: {fileID: 5743506178259300687, guid: 936f52e3dbd432a47a08c87616331a19,
+      type: 3}
+    baseType: 1
+  - associatedGO: {fileID: 5743506178259300687, guid: 72c49bb509302914cb49d847b5d237b0,
+      type: 3}
+    baseType: 2
+  - associatedGO: {fileID: 5743506178259300687, guid: 04c7b631ff0853e4d990ead560a24b33,
+      type: 3}
+    baseType: 3
+  weaponsInfos:
+  - associatedGO: {fileID: 8373811230981500328, guid: ec6eedce7bfcba649a39cfa139c55748,
+      type: 3}
+    weaponType: 0
+  - associatedGO: {fileID: 1643037179263064338, guid: 76371cc31945e0f46816830dc279488b,
+      type: 3}
+    weaponType: 1

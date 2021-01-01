@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+  <Category name="MainButtons">
+    <Text tag="Play" text="Play"/>
+    <Text tag="Credits" text="Credits"/>
+    <Text tag="Leave" text="Leave"/>
+  </Category>
+  <Category name="Title">
+    <Text tag="Dwarfs" text="Dwarfs"/>
+    <Text tag="Aliens" text="Aliens"/>
+  </Category>
+  <Category name="Options">
+    <Text tag="Title" text="Options"/>
+    <Text tag="PlayMusic" text="Play music"/>
+    <Text tag="PlayEffects" text="Play effects"/>
+    <Text tag="Return" text="Return"/>
+  </Category>
+  <Category name="Game">
+    <Text tag="NextWave" text="Next wave"/>
+    <Category name="Tips">
+      <Text tag="ForgeTower" text="Forge a tower"/>
+      <Text tag="LaunchNextWave" text="Launch next wave"/>
+      <Text tag="LifeAndMoney" text="Life &amp; money"/>
+      <Text tag="OpenCloseFabric" text="Open / Close fabric"/>
+      <Text tag="SelectBaseAndWeaponToForge" text="Select a base and a weapon to forge"/>
+      <Text tag="Close" text="Close tips"/>
+    </Category>
+    <Category name="PauseMenu">
+      <Text tag="Title" text="Pause"/>
+      <Text tag="Resume" text="Resume"/>
+      <Text tag="Retry" text="Retry"/>
+      <Text tag="BackToMenu" text="Go back to menu"/>
+    </Category>
+  </Category>
+</Content>

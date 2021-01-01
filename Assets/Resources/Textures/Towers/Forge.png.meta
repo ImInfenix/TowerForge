@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: c51ed338ba0589b4b8959979d55e0679
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 233842678100834570
+    second: ForgeHand_0
+  - first:
+      213: 1349355263699170151
+    second: ForgeHand_1
+  - first:
+      213: 5509635535815054208
+    second: ForgeHand_2
+  - first:
+      213: 1930070824249225855
+    second: ForgeHand_3
+  - first:
+      213: 4326034008973019375
+    second: ForgeHand_4
+  - first:
+      213: 4820494273942211283
+    second: ForgeHand_5
+  - first:
+      213: -6163236560576739870
+    second: ForgeHand_6
+  - first:
+      213: -4464505271942121770
+    second: ForgeHand_7
+  - first:
+      213: 1899095735575860746
+    second: ForgeHand_8
+  - first:
+      213: -4155230709470284968
+    second: ForgeHand_9
+  - first:
+      213: 5752410670555896364
+    second: ForgeHand_10
+  - first:
+      213: 7534986364742494182
+    second: ForgeHand_11
+  - first:
+      213: 8218084294115286067
+    second: ForgeHand_12
+  - first:
+      213: -6332866476347308758
+    second: ForgeHand_13
+  - first:
+      213: 8730065281190697726
+    second: ForgeHand_14
+  - first:
+      213: 6959915188980099066
+    second: ForgeHand_15
+  - first:
+      213: 2846851958907247007
+    second: ForgeHand_16
+  - first:
+      213: 2721000409570592901
+    second: ForgeHand_17
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ForgeHand_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5163
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a09b6814da6ce3300800000000000000
+      internalID: 233842678100834570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_1
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 5163
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763b790967fd9b210800000000000000
+      internalID: 1349355263699170151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_2
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 5163
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083102a1458267c40800000000000000
+      internalID: 5509635535815054208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_3
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 5163
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7278be403df8ca10800000000000000
+      internalID: 1930070824249225855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_4
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 5163
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe88817c209290c30800000000000000
+      internalID: 4326034008973019375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3442
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3da41288006d5e240800000000000000
+      internalID: 4820494273942211283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_6
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 3442
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e58f1c9009c77aa0800000000000000
+      internalID: -6163236560576739870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_7
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 3442
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d6f700fb14ea02c0800000000000000
+      internalID: -4464505271942121770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_8
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 3442
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0655797281fa5a10800000000000000
+      internalID: 1899095735575860746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_9
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 3442
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 853ba326fa7a556c0800000000000000
+      internalID: -4155230709470284968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1721
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2a96acf60ba4df40800000000000000
+      internalID: 5752410670555896364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_11
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1721
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e763e93d26a19860800000000000000
+      internalID: 7534986364742494182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_12
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 1721
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c55fccf108c0270800000000000000
+      internalID: 8218084294115286067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_13
+      rect:
+        serializedVersion: 2
+        x: 4140
+        y: 1721
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25c6532e732d18a0800000000000000
+      internalID: -6332866476347308758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_14
+      rect:
+        serializedVersion: 2
+        x: 5520
+        y: 1721
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efa975f8e1c672970800000000000000
+      internalID: 8730065281190697726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7210a3df5969060800000000000000
+      internalID: 6959915188980099066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_16
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 0
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f999acaf5cc028720800000000000000
+      internalID: 2846851958907247007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ForgeHand_17
+      rect:
+        serializedVersion: 2
+        x: 2760
+        y: 0
+        width: 1380
+        height: 1721
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 588c52eb47fe2c520800000000000000
+      internalID: 2721000409570592901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

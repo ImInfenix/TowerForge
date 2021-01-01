@@ -1,0 +1,551 @@
+fileFormatVersion: 2
+guid: e8b2aaf3e27e20447b8f6c8449c5bd1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1309759999419555574
+    second: Labo_0
+  - first:
+      213: -5227515528954963461
+    second: Labo_1
+  - first:
+      213: 6038642377060473625
+    second: Labo_2
+  - first:
+      213: -2590048739764038376
+    second: Labo_3
+  - first:
+      213: -4656959334222787492
+    second: Labo_4
+  - first:
+      213: 6310634397695883019
+    second: Labo_5
+  - first:
+      213: -8429795958449892279
+    second: Labo_6
+  - first:
+      213: -7748698276381130697
+    second: Labo_7
+  - first:
+      213: -8539885282677065883
+    second: Labo_8
+  - first:
+      213: -5649662434484796389
+    second: Labo_9
+  - first:
+      213: 5594341958886978332
+    second: Labo_10
+  - first:
+      213: 2597349226637805584
+    second: Labo_11
+  - first:
+      213: -2527568936607099298
+    second: Labo_12
+  - first:
+      213: -4027742998033834607
+    second: Labo_13
+  - first:
+      213: -2481280920976065058
+    second: Labo_14
+  - first:
+      213: -8335280975403596263
+    second: Labo_15
+  - first:
+      213: 8639087857180761918
+    second: Labo_16
+  - first:
+      213: -845442597687388537
+    second: Labo_17
+  - first:
+      213: 1198673621571270899
+    second: Labo_18
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Labo_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5202
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe1b62b7c33d2210800000000000000
+      internalID: 1309759999419555574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_1
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 5202
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf91dcea2522477b0800000000000000
+      internalID: -5227515528954963461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_2
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 5202
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b5f427f319dc350800000000000000
+      internalID: 6038642377060473625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_3
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 5202
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8159a63d46c4e0cd0800000000000000
+      internalID: -2590048739764038376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_4
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 5202
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5c063eb8282f5fb0800000000000000
+      internalID: -4656959334222787492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3468
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07360eac80e39750800000000000000
+      internalID: 6310634397695883019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_6
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 3468
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944129f1d39530b80800000000000000
+      internalID: -8429795958449892279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_7
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 3468
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7300f94d8f7177490800000000000000
+      internalID: -7748698276381130697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_8
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 3468
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5677277e49b3c7980800000000000000
+      internalID: -8539885282677065883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_9
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 3468
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b144aa3f2fd5891b0800000000000000
+      internalID: -5649662434484796389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1734
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13758b1f5813ad40800000000000000
+      internalID: 5594341958886978332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_11
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 1734
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018c16b3c53ab0420800000000000000
+      internalID: 2597349226637805584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_12
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 1734
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56d83c91754cecd0800000000000000
+      internalID: -2527568936607099298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_13
+      rect:
+        serializedVersion: 2
+        x: 4188
+        y: 1734
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d50ab45159a18c0800000000000000
+      internalID: -4027742998033834607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_14
+      rect:
+        serializedVersion: 2
+        x: 5584
+        y: 1734
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd74451628b09dd0800000000000000
+      internalID: -2481280920976065058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9164ff57d12235c80800000000000000
+      internalID: -8335280975403596263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_16
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 0
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f56ae52a434e770800000000000000
+      internalID: 8639087857180761918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Labo_17
+      rect:
+        serializedVersion: 2
+        x: 2792
+        y: 0
+        width: 1396
+        height: 1734
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7861cdecf626444f0800000000000000
+      internalID: -845442597687388537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

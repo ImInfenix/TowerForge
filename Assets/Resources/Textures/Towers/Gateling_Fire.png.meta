@@ -1,0 +1,875 @@
+fileFormatVersion: 2
+guid: dce2da86e36b91c40a3492a1f83a7ca7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5992057568667282701
+    second: Gateling_Fire_0
+  - first:
+      213: -4057727310571573860
+    second: Gateling_Fire_1
+  - first:
+      213: 4792011039713481990
+    second: Gateling_Fire_2
+  - first:
+      213: 4449802569077338812
+    second: Gateling_Fire_3
+  - first:
+      213: -8313178092449765814
+    second: Gateling_Fire_4
+  - first:
+      213: -5456923468075596151
+    second: Gateling_Fire_5
+  - first:
+      213: 6356085305109186000
+    second: Gateling_Fire_6
+  - first:
+      213: 1831708473134578931
+    second: Gateling_Fire_7
+  - first:
+      213: -1468789091689763928
+    second: Gateling_Fire_8
+  - first:
+      213: -8946242336133188502
+    second: Gateling_Fire_9
+  - first:
+      213: -1954303695094666072
+    second: Gateling_Fire_10
+  - first:
+      213: -3001553817851020962
+    second: Gateling_Fire_11
+  - first:
+      213: 4150717240377279352
+    second: Gateling_Fire_12
+  - first:
+      213: -5620667122690587740
+    second: Gateling_Fire_13
+  - first:
+      213: 6886981491560766008
+    second: Gateling_Fire_14
+  - first:
+      213: -8462735756534170235
+    second: Gateling_Fire_15
+  - first:
+      213: 2849308748058034095
+    second: Gateling_Fire_16
+  - first:
+      213: -1323305054581344671
+    second: Gateling_Fire_17
+  - first:
+      213: -6296236430410936782
+    second: Gateling_Fire_18
+  - first:
+      213: -1877994754868763604
+    second: Gateling_Fire_19
+  - first:
+      213: 231592119596887572
+    second: Gateling_Fire_20
+  - first:
+      213: -2786686302747245253
+    second: Gateling_Fire_21
+  - first:
+      213: 675589556092163030
+    second: Gateling_Fire_22
+  - first:
+      213: 1214509997209138980
+    second: Gateling_Fire_23
+  - first:
+      213: -5126203866078436343
+    second: Gateling_Fire_24
+  - first:
+      213: -2770046506818372357
+    second: Gateling_Fire_25
+  - first:
+      213: 1973976411310385544
+    second: Gateling_Fire_26
+  - first:
+      213: 4397207878464863552
+    second: Gateling_Fire_27
+  - first:
+      213: -3217467479394869041
+    second: Gateling_Fire_28
+  - first:
+      213: 4714984696018003085
+    second: Gateling_Fire_29
+  - first:
+      213: 3744238972319466878
+    second: Gateling_Fire_30
+  - first:
+      213: 1949933131742340098
+    second: Gateling_Fire_31
+  - first:
+      213: 1268026672431230077
+    second: Gateling_Fire_32
+  - first:
+      213: -6510040483979936503
+    second: Gateling_Fire_33
+  - first:
+      213: -4675103046888338276
+    second: Gateling_Fire_34
+  - first:
+      213: 7131345307707499568
+    second: Gateling_Fire_35
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 1000
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Gateling_Fire_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f255e9736fe7dca0800000000000000
+      internalID: -5992057568667282701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_1
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9deaf1828e00b7c0800000000000000
+      internalID: -4057727310571573860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_2
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6055fd5c6a4a08240800000000000000
+      internalID: 4792011039713481990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_3
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2b97a4cdfd0cd30800000000000000
+      internalID: 4449802569077338812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_4
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a46e8fce198a1ac80800000000000000
+      internalID: -8313178092449765814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_5
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 10560
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9868cde840d1544b0800000000000000
+      internalID: -5456923468075596151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d50d15b8e9553850800000000000000
+      internalID: 6356085305109186000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_7
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fc7249c6298b6910800000000000000
+      internalID: 1831708473134578931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_8
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8abecd36a10dd9be0800000000000000
+      internalID: -1468789091689763928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_9
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6478389eff88d380800000000000000
+      internalID: -8946242336133188502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_10
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac26a6c42be0e4e0800000000000000
+      internalID: -1954303695094666072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_11
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 8448
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e59b5c0a4b65856d0800000000000000
+      internalID: -3001553817851020962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87307c3b65f4a9930800000000000000
+      internalID: 4150717240377279352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_13
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a38f4f08016ff1b0800000000000000
+      internalID: -5620667122690587740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_14
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a5b238d29739f50800000000000000
+      internalID: 6886981491560766008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_15
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58db8cbbaa25e8a80800000000000000
+      internalID: -8462735756534170235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_16
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faf7967c537ca8720800000000000000
+      internalID: 2849308748058034095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_17
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 6336
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1663334601da2ade0800000000000000
+      internalID: -1323305054581344671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e8b7f43564f98a0800000000000000
+      internalID: -6296236430410936782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24200278b500f5e0800000000000000
+      internalID: -1877994754868763604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_20
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e2a554ec7c63300800000000000000
+      internalID: 231592119596887572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_21
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b35cd487293b359d0800000000000000
+      internalID: -2786686302747245253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_22
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d356d03f1d206900800000000000000
+      internalID: 675589556092163030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_23
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 4224
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 427bfcf586ecad010800000000000000
+      internalID: 1214509997209138980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904292c5eb01cd8b0800000000000000
+      internalID: -5126203866078436343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_25
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc77cdd061de89d0800000000000000
+      internalID: -2770046506818372357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_26
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889e7276619f46b10800000000000000
+      internalID: 1973976411310385544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_27
+      rect:
+        serializedVersion: 2
+        x: 5100
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d727f9445060d30800000000000000
+      internalID: 4397207878464863552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_28
+      rect:
+        serializedVersion: 2
+        x: 6800
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc02c46df524953d0800000000000000
+      internalID: -3217467479394869041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_29
+      rect:
+        serializedVersion: 2
+        x: 8500
+        y: 2112
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d846e87999dfe6140800000000000000
+      internalID: 4714984696018003085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Gateling_Fire_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1700
+        height: 2112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e75864be18536f330800000000000000
+      internalID: 3744238972319466878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

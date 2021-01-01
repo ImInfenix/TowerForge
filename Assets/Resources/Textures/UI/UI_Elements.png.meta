@@ -1,0 +1,548 @@
+fileFormatVersion: 2
+guid: fb3706f68ff74224e9b8d4de0cce3098
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1759661152996549035
+    second: UI_Heart
+  - first:
+      213: 2988436986575171451
+    second: UI_HeartLittle
+  - first:
+      213: -1008371854620790174
+    second: UI_MoneyYellowLittle
+  - first:
+      213: -617830102930247153
+    second: UI_TowerRange
+  - first:
+      213: 8994019595736321889
+    second: UI_MoneyYellow
+  - first:
+      213: 3339231666021353388
+    second: UI_MoneyBlue
+  - first:
+      213: 4003995673844681263
+    second: UI_FirstCorrectedPlus_6
+  - first:
+      213: 1637855403920381728
+    second: UI_MoneyBlueLittle
+  - first:
+      213: 3245494914525706637
+    second: UI_DropDownArrowLittle
+  - first:
+      213: -5038184790047125211
+    second: UI_PlaceAvalaible
+  - first:
+      213: -2423076518938040850
+    second: UI_PlaceUnavailable
+  - first:
+      213: -6041078173537406236
+    second: UI_PickArrow
+  - first:
+      213: -5808203891515574438
+    second: UI_DropDownArrow
+  - first:
+      213: 7875877908919627599
+    second: UI_MoneyBox
+  - first:
+      213: -1280544290675501960
+    second: UI_Confirm
+  - first:
+      213: 2207033463756139630
+    second: UI_OpenBox
+  - first:
+      213: -5133616372201165932
+    second: UI_WaveBox
+  - first:
+      213: 7554661542909816158
+    second: UI_MenuBox
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_Heart
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 526
+        width: 93
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55e1692218d6497e0800000000000000
+      internalID: -1759661152996549035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_HeartLittle
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 545
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fa37a1b9f097920800000000000000
+      internalID: 2988436986575171451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MoneyYellowLittle
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 543
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26273db042b8102f0800000000000000
+      internalID: -1008371854620790174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_TowerRange
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 351
+        width: 316
+        height: 219
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f02bc477bc60d67f0800000000000000
+      internalID: -617830102930247153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MoneyYellow
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 393
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f04c28b2d21dc70800000000000000
+      internalID: 8994019595736321889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MoneyBlue
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 393
+        width: 86
+        height: 114
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca740fb1285575e20800000000000000
+      internalID: 3339231666021353388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_FirstCorrectedPlus_6
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 493
+        width: 31
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a86bde9dc019730800000000000000
+      internalID: 4003995673844681263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MoneyBlueLittle
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 493
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027d028efc4dab610800000000000000
+      internalID: 1637855403920381728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DropDownArrowLittle
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 496
+        width: 38
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8934aced605a0d20800000000000000
+      internalID: 3245494914525706637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_PlaceAvalaible
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 372
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521177c70a5c41ab0800000000000000
+      internalID: -5038184790047125211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_PlaceUnavailable
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 372
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5ab197eb08f5ed0800000000000000
+      internalID: -2423076518938040850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_PickArrow
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 192
+        width: 146
+        height: 173
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2ffed7867c92ca0800000000000000
+      internalID: -6041078173537406236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_DropDownArrow
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 235
+        width: 161
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573c27755d156fa0800000000000000
+      internalID: -5808203891515574438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MoneyBox
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 244
+        width: 235
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4f208fda3dbc4d60800000000000000
+      internalID: 7875877908919627599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_Confirm
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 190
+        width: 144
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 874d12390c79a3ee0800000000000000
+      internalID: -1280544290675501960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_OpenBox
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 222
+        width: 218
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ca59eed35f0ae10800000000000000
+      internalID: 2207033463756139630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_WaveBox
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 190
+        width: 203
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49be1d9cb1bb1c8b0800000000000000
+      internalID: -5133616372201165932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_MenuBox
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 51
+        width: 1132
+        height: 101
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5da17f95ac87d860800000000000000
+      internalID: 7554661542909816158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Content>
+  <Category name="SomeCategory">
+    <Text tag="Text1" text="Translation1"/> <!-- Access with a TranslatedText component using SomeCategory.Text1-->
+    <Text tag="Text2" text="Translation2"/> <!-- Access with a TranslatedText component using SomeCategory.Text2-->
+    <Category name="DeeperCategory">
+      <Text tag="DeeperText1" text="Translation1"/> <!-- Access with a TranslatedText component using SomeCategory.DeeperCategory.DeeperText1--> 
+      <Text tag="DeeperText2" text="Translation2"/>  <!-- Access with a TranslatedText component using SomeCategory.DeeperCategory.DeeperText2-->
+    </Category>
+  </Category>
+</Content>
