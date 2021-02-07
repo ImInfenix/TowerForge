@@ -155,7 +155,7 @@ public abstract class Ennemy : MonoBehaviour
     {
         increasedRewardLimit = Time.time + GameBalance.Tavern.rewardDuration;
         goldAnimator.SetBool("IsRewardBigger", true);
-        Invoke("CheckGoldAnimation", GameBalance.Tavern.rewardDuration);
+        Invoke(nameof(CheckGoldAnimation), GameBalance.Tavern.rewardDuration);
     }
 
     void CheckGoldAnimation()
@@ -197,7 +197,7 @@ public abstract class Ennemy : MonoBehaviour
 
         isPoisoned = true; //On declare l'ennemi comme empoisonne
         poisonAnimator.SetBool("IsPoisoned", true); //On declench l'animation
-        InvokeRepeating("TakePoisonDamage", GameBalance.Laboratory.poisonTick, GameBalance.Laboratory.poisonTick); //On applique les degats regulierement
+        InvokeRepeating(nameof(TakePoisonDamage), GameBalance.Laboratory.poisonTick, GameBalance.Laboratory.poisonTick); //On applique les degats regulierement
     }
 
     //Applique des degats de poison a l'ennemi

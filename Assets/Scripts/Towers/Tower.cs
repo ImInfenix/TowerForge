@@ -5,7 +5,8 @@ using UnityEngine;
 public class Tower : MonoBehaviour
 {
     public TowerBase TowerBase { get; private set;} //Base associee a la tour
-    TowerWeapon towerWeapon; //Arme associee a la tour
+
+    protected TowerWeapon towerWeapon; //Arme associee a la tour
     RangeIndicator rangeIndicator; //Objet d'affichage de la portee
 
     //Initialise une tour a l'aide de sa base et de son arme

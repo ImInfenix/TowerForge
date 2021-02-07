@@ -30,7 +30,7 @@ public abstract class TowerWeapon : MonoBehaviour
     //Initialisation
     protected virtual void Start()
     {
-        InvokeRepeating("FindTarget", 0.0f, 0.5f);
+        InvokeRepeating(nameof(FindTarget), 0.0f, 0.5f);
     }
 
     protected virtual void Update()

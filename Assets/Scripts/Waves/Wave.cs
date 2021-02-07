@@ -69,7 +69,7 @@ public class Wave : MonoBehaviour
             }
         }
 
-        Invoke("Spawn", waveComposition[listIndex].timeSpacing); //On refait apparaitre un enemi apres le delai specifie
+        Invoke(nameof(Spawn), waveComposition[listIndex].timeSpacing); //On refait apparaitre un enemi apres le delai specifie
     }
 
     //Appel pour instancier un ennemi lors d'une ecclosion
